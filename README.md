@@ -1,6 +1,27 @@
 # GpaCalculator-AssignmentViewer-All-in-one
 A GPA calculator/ assignment viewer that shows your gpa for each subject, your average GPA, your grades, your assignment list and all nessecary details. This is all made by CHATGPT but it works, if a bit slow. 
 
+WHAT TO DO (if you're in chrome. I don't care if you aren't.)
+1. Copy the text in the txt file attached.
+2. Go to the bookmarks bar
+3. Right click it
+4. Press "Add page"
+5. Go to the "Name" section
+6. Write "GPA"
+7. Go to the "URL" section
+8. Paste the code in the txt file
+9. Press Save
+10. Go to https://gihs.daymap.net/daymap/student/portfolio.aspx?tab=Assessment_Results
+11. Go to the blue link at the top that says "Completed tasks with published results 2025"
+12. Click it
+13. Select Tabular
+14. Press Apply
+15. Click the link in your bookmark bar
+16. Voila!
+
+<img width="93" height="51" alt="image" src="https://github.com/user-attachments/assets/dee3c9ce-610c-4c19-8629-5c82f262ea85" />
+
+
 GPA CALCULATOR:
 
 1. Shows your GPA average for each subject.
